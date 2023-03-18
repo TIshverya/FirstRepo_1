@@ -7,4 +7,4 @@ class Hello
 	System.out.println("Hi);
 
 	}
-}
+}This is my first java program
